@@ -1,0 +1,10 @@
+Add mark tag where you want to highlight (Yellow Color) your text.
+
+example how you will add mark tage---------------
+
+<mark> tage and close it as </mark>
+
+---> it means 'tage and close it as' this text will be highlighted (or will be yello
+background )
+
+Thakyou.
